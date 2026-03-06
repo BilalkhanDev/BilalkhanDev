@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Muhammad Bilal Khan
 
-🎯 Full-Stack Developer | JavaScript Enthusiast | 3+ Years Experience
+🎯 Full-Stack Developer | JavaScript Enthusiast | 4 Years Experience
 
 ---
 
